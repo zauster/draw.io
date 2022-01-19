@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T14:26:52.487Z" agent="5.0 (X11)" etag="CCqPjU3SB1SEj0SCnkKr" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-19T14:29:40.914Z" agent="5.0 (X11)" etag="a1BYAWC56K5uPAvpxu9p" version="16.2.7" type="github">
   <diagram id="RKy1fjhTBrsu8SNiVf_X" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -163,13 +163,13 @@
             <mxPoint x="670" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RLwwSOCWPDE9d2zi6889-117" value="&lt;div&gt;Possible additional &lt;br&gt;&lt;/div&gt;&lt;div&gt;factors of &lt;br&gt;&lt;/div&gt;&lt;div&gt;production&lt;br&gt;&lt;/div&gt;" style="swimlane;horizontal=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;html=1;dashed=1;startSize=50;" vertex="1" parent="1">
+        <mxCell id="RLwwSOCWPDE9d2zi6889-117" value="&lt;div&gt;Possible additional &lt;br&gt;&lt;/div&gt;&lt;div&gt;factors of &lt;br&gt;&lt;/div&gt;&lt;div&gt;production&lt;br&gt;&lt;/div&gt;" style="swimlane;horizontal=0;fontFamily=Helvetica;fontSize=12;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;html=1;dashed=1;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RLwwSOCWPDE9d2zi6889-82" value="&lt;div&gt;Raw &lt;br&gt;&lt;/div&gt;&lt;div&gt;Materials&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="RLwwSOCWPDE9d2zi6889-117">
+        <mxCell id="RLwwSOCWPDE9d2zi6889-82" value="&lt;div&gt;Raw &lt;br&gt;&lt;/div&gt;&lt;div&gt;Materials&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="RLwwSOCWPDE9d2zi6889-117">
           <mxGeometry x="60" y="10" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RLwwSOCWPDE9d2zi6889-81" value="Energy" style="rhombus;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="RLwwSOCWPDE9d2zi6889-117">
+        <mxCell id="RLwwSOCWPDE9d2zi6889-81" value="Energy" style="rhombus;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="RLwwSOCWPDE9d2zi6889-117">
           <mxGeometry x="170" y="10" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
