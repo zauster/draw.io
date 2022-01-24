@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T21:56:09.771Z" agent="5.0 (X11)" etag="zK7l5FyJ54c7qSigmSo7" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T22:08:11.421Z" agent="5.0 (X11)" etag="UE-9qR_VCDBrAognOiLK" version="16.4.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1185" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EDulM0EnLrTdhca_MQIW-11" value="Period t" style="swimlane;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-11" value="Period t" style="swimlane;horizontal=0;dashed=1;dashPattern=1 2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="130" width="390" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Intermediate &#xa;input firms" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Intermediate &#xa;input firms" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="110" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-15" value="&lt;div&gt;Updating sales&lt;/div&gt;&lt;div&gt;expectation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-15" value="&lt;div&gt;Updating sales&lt;/div&gt;&lt;div&gt;expectation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry y="60" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-17" value="Finding workers, buying capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-17" value="Finding workers, buying capital" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry y="122.5" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-19" value="Producing output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-19" value="Producing output" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry y="180" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-21" value="&lt;div&gt;Paying wage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-21" value="&lt;div&gt;Paying wage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry y="240" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-24" value="&lt;div&gt;Selling output to&lt;/div&gt;&lt;div&gt;final good firms&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-24" value="&lt;div&gt;Selling output to&lt;/div&gt;&lt;div&gt;final good firms&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry y="360" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Final good&#xa;firms" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Final good&#xa;firms" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="450" y="80" width="110" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-16" value="&lt;div&gt;Updating sales&lt;/div&gt;&lt;div&gt;expectation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-16" value="&lt;div&gt;Updating sales&lt;/div&gt;&lt;div&gt;expectation&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry y="60" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-18" value="Finding workers, buying capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-18" value="Finding workers, buying capital" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry y="120" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-20" value="Producing output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-20" value="Producing output" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry y="180" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-22" value="&lt;div&gt;Paying wage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-22" value="&lt;div&gt;Paying wage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry y="240" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-23" value="&lt;div&gt;Selling output to &lt;br&gt;&lt;/div&gt;&lt;div&gt;consumers&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-23" value="&lt;div&gt;Selling output to &lt;br&gt;&lt;/div&gt;&lt;div&gt;consumers&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry y="300" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="EDulM0EnLrTdhca_MQIW-25" value="&lt;div&gt;Buying intermediates,&lt;/div&gt;&lt;div&gt;keep as inventory&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="EDulM0EnLrTdhca_MQIW-25" value="&lt;div&gt;Buying intermediates,&lt;/div&gt;&lt;div&gt;keep as inventory&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
           <mxGeometry y="360" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
