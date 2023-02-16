@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T21:34:17.268Z" agent="5.0 (X11)" etag="nVAeVcMrkNd4sytUySBN" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T21:42:15.138Z" agent="5.0 (X11)" etag="6iQMvWc7Ba-d3JTz2UYf" version="20.8.20" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1434" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r_YhAPOJaWux1DvNEwsP-16" value="Interaction" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;endSize=6;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="r_YhAPOJaWux1DvNEwsP-15">
+        <mxCell id="r_YhAPOJaWux1DvNEwsP-16" value="Interaction" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=2;endSize=6;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_YhAPOJaWux1DvNEwsP-3" target="r_YhAPOJaWux1DvNEwsP-15">
           <mxGeometry x="-0.7143" width="100" height="100" relative="1" as="geometry">
             <mxPoint x="160" y="170" as="sourcePoint" />
             <mxPoint x="440" y="170" as="targetPoint" />
@@ -12,10 +12,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-14" value="&lt;div&gt;period t&lt;/div&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5" y="90" width="615" height="460" as="geometry" />
+          <mxGeometry x="5" y="90" width="825" height="610" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Consumption&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;firm&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;fontStyle=1;size=50;" parent="1" vertex="1">
-          <mxGeometry x="40" y="30" width="120" height="530" as="geometry" />
+          <mxGeometry x="40" y="30" width="120" height="660" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-1" value="&lt;div&gt;Update production&lt;/div&gt;&lt;div&gt;plans, prices&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="120" height="40" as="geometry" />
@@ -24,7 +24,7 @@
           <mxGeometry x="40" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-3" value="Hire workers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-5" value="&lt;div&gt;Sell produced&lt;/div&gt;&lt;div&gt;goods to consumers&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
@@ -36,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-8" value="&lt;div&gt;Buy intermediate inputs, capital goods&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-10" value="Interaction" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;endSize=6;" edge="1" parent="1" source="r_YhAPOJaWux1DvNEwsP-8" target="r_YhAPOJaWux1DvNEwsP-9">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -52,37 +52,55 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="30" width="120" height="520" as="geometry" />
+          <mxGeometry x="260" y="30" width="120" height="670" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;Intermediate&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;input firms,&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;capital firms&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;size=50;" parent="r_YhAPOJaWux1DvNEwsP-18" vertex="1">
-          <mxGeometry width="120" height="520" as="geometry" />
+          <mxGeometry width="120" height="670" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-9" value="&lt;div&gt;Sell produced&lt;/div&gt;&lt;div&gt;goods to &lt;br&gt;&lt;/div&gt;&lt;div&gt;consumption firms&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-18">
-          <mxGeometry y="370" width="120" height="60" as="geometry" />
+          <mxGeometry y="449.9976923076924" width="120" height="77.3076923076923" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-11" value="&lt;div&gt;Update production&lt;/div&gt;&lt;div&gt;plans, prices&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-18">
-          <mxGeometry y="70" width="120" height="40" as="geometry" />
+          <mxGeometry y="70.0023076923077" width="120" height="51.53846153846154" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-12" value="Produce" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-18">
-          <mxGeometry y="210" width="120" height="40" as="geometry" />
+          <mxGeometry y="209.9969230769231" width="120" height="51.53846153846154" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-13" value="Hire workers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-18">
-          <mxGeometry y="130" width="120" height="40" as="geometry" />
+          <mxGeometry y="140" width="120" height="51.53846153846154" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="480" y="30" width="120" height="530" as="geometry" />
+          <mxGeometry x="480" y="30" width="120" height="670" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-20" value="" style="group" vertex="1" connectable="0" parent="r_YhAPOJaWux1DvNEwsP-19">
-          <mxGeometry width="120" height="530" as="geometry" />
+          <mxGeometry width="120" height="670" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-4" value="&lt;div&gt;Consumers,&lt;/div&gt;&lt;div&gt;Households&lt;br&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;size=50;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-20">
-          <mxGeometry width="120" height="530" as="geometry" />
+          <mxGeometry width="120" height="670" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-6" value="Buy goods" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-20">
-          <mxGeometry y="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="10" y="290.0037735849056" width="120" height="50.56603773584905" as="geometry" />
         </mxCell>
         <mxCell id="r_YhAPOJaWux1DvNEwsP-15" value="If unemployed, look for work" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-20">
-          <mxGeometry y="130" width="120" height="40" as="geometry" />
+          <mxGeometry y="139.99962264150943" width="120" height="50.56603773584905" as="geometry" />
+        </mxCell>
+        <mxCell id="r_YhAPOJaWux1DvNEwsP-21" value="B" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700" y="30" width="120" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="r_YhAPOJaWux1DvNEwsP-22" value="" style="group" vertex="1" connectable="0" parent="r_YhAPOJaWux1DvNEwsP-21">
+          <mxGeometry width="120" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="r_YhAPOJaWux1DvNEwsP-23" value="Banks" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=1;size=50;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-22">
+          <mxGeometry width="120" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="r_YhAPOJaWux1DvNEwsP-25" value="Evaluate loan applications, give out loans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-22">
+          <mxGeometry y="126.41509433962264" width="120" height="75.84905660377358" as="geometry" />
+        </mxCell>
+        <mxCell id="r_YhAPOJaWux1DvNEwsP-26" value="Evaluate loan applications, give out loans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="r_YhAPOJaWux1DvNEwsP-22">
+          <mxGeometry y="467.73584905660374" width="120" height="75.84905660377358" as="geometry" />
+        </mxCell>
+        <mxCell id="r_YhAPOJaWux1DvNEwsP-27" value="Compute necessary inventories, necessary loans" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
