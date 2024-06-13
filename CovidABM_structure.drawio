@@ -1,9 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T13:27:24.037Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" version="23.1.5" etag="mNwsRKHZshGijYVHgKhw" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T14:52:43.947Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="GCKjzurijNlFmp8DDYUM" version="24.5.4" type="github">
   <diagram name="Page-1" id="LTLJHB56SYGIF1e-PyQ5">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-22" value="Firm sector" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=14;startSize=23;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="360" height="200" as="geometry">
+            <mxRectangle x="480" y="200" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-23" value="&lt;b&gt;Essential firms&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="_o3PZ7_7_NuoDLqpeevg-22">
+          <mxGeometry x="10" y="40" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-24" value="&lt;b&gt;Non-essential firms&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="_o3PZ7_7_NuoDLqpeevg-22">
+          <mxGeometry x="190" y="40" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-1" value="Household sector" style="swimlane;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;fontSize=14;startSize=23;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="360" height="200" as="geometry">
+            <mxRectangle x="480" y="200" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Production workers&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="_o3PZ7_7_NuoDLqpeevg-1">
+          <mxGeometry x="10" y="40" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Home workers&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="_o3PZ7_7_NuoDLqpeevg-1">
+          <mxGeometry x="190" y="40" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-25" value="&lt;b&gt;Banking sector&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-26" value="&lt;b&gt;Government sector&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="640" y="490" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-27" value="&lt;b&gt;Central bank&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="880" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-32" value="&lt;div&gt;Short-time&amp;nbsp;&lt;/div&gt;&lt;div&gt;work&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="562" as="sourcePoint" />
+            <mxPoint x="480" y="562" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-33" value="&lt;div&gt;Called guarantees&lt;/div&gt;&lt;div&gt;on firm loans&lt;br&gt;&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.45;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.45;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-26" target="_o3PZ7_7_NuoDLqpeevg-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="440" as="sourcePoint" />
+            <mxPoint x="703" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-34" value="&lt;div&gt;Wages&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.117;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="350" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-35" value="Consumption" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.472;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_o3PZ7_7_NuoDLqpeevg-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="240" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-36" value="&lt;div&gt;Wages&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-22" target="_o3PZ7_7_NuoDLqpeevg-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="370" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-37" value="Interest on loans" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="_o3PZ7_7_NuoDLqpeevg-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="100" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-38" value="Interest on deposits" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;exitX=0;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="130" as="sourcePoint" />
+            <mxPoint x="480" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-39" value="&lt;div&gt;Interest on&amp;nbsp;&lt;/div&gt;&lt;div&gt;loans&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;exitX=0.889;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-22" target="_o3PZ7_7_NuoDLqpeevg-25">
+          <mxGeometry x="0.1349" y="5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="170" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-40" value="&lt;div&gt;Interest on&amp;nbsp;&lt;/div&gt;&lt;div&gt;deposits&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;exitX=0.136;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-25" target="_o3PZ7_7_NuoDLqpeevg-22">
+          <mxGeometry x="-0.4616" y="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-41" value="&lt;div&gt;Government&amp;nbsp;&lt;/div&gt;&lt;div&gt;consumption&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="480" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-42" value="Taxes" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;entryX=-0.029;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_o3PZ7_7_NuoDLqpeevg-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="504" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-43" value="&lt;div&gt;Social&lt;/div&gt;&lt;div&gt;benefits&lt;br&gt;&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-26">
+          <mxGeometry x="-0.2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-44" value="Taxes" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-1" target="_o3PZ7_7_NuoDLqpeevg-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-46" value="Interest on loans" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-25" target="_o3PZ7_7_NuoDLqpeevg-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-47" value="CB Profits" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-27" target="_o3PZ7_7_NuoDLqpeevg-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_o3PZ7_7_NuoDLqpeevg-48" value="&lt;div&gt;Interest on&amp;nbsp;&lt;/div&gt;&lt;div&gt;bonds&lt;/div&gt;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=#dae8fc;exitX=0.829;exitY=-0.062;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.829;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_o3PZ7_7_NuoDLqpeevg-26" target="_o3PZ7_7_NuoDLqpeevg-25">
+          <mxGeometry x="-0.2457" y="-4" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
